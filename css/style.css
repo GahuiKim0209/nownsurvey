@@ -202,7 +202,7 @@ body {
 }
 
 /* SECURITY */
-.security-bg {background: linear-gradient(rgba(17,24,39,0.82), rgba(17,24,39,0.82)), url('../img/04.jpg') center/cover no-repeat; background-attachment: fixed; }
+.security-bg {background: linear-gradient(rgba(17,24,39,0.82), rgba(17,24,39,0.82)), url('../img/05.jpg') center/cover no-repeat; background-attachment: fixed; }
 .security-content { max-width: 1080px; margin: 0 auto; padding: 80px 40px; }
 .security-label { font-size: 12px; font-weight: 600; color: #F9A07A; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; }
 .security-divider { width: 36px; height: 3px; background: var(--brand); margin-bottom: 24px; border-radius: 2px; }
