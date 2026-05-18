@@ -207,7 +207,7 @@ body {
 .security-label { font-size: 12px; font-weight: 600; color: #F9A07A; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; }
 .security-divider { width: 36px; height: 3px; background: var(--brand); margin-bottom: 24px; border-radius: 2px; }
 .security-title { font-size: 30px; font-weight: 700; color: #F1F5F9; letter-spacing: -0.5px; margin-bottom: 12px; }
-.security-desc { font-size: 15px; color: #64748B; line-height: 1.85; max-width: 580px; font-weight: 300; }
+.security-desc { font-size: 15px; color: #64748B; line-height: 1.85; max-width: 450px; font-weight: 300; }
 .security-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 36px; }
 .sec-card { background: #1E293B; border: 1px solid #2D3748; border-top: 2px solid var(--brand); border-radius: 10px; padding: 24px 20px; }
 .sec-card-icon { font-size: 22px; margin-bottom: 12px; }
